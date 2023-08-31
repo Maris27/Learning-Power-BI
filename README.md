@@ -42,6 +42,31 @@ Next task was to load the data set into SQL server and then load it into power B
 
 
 
+# TASK 2
+
+QUESTION
+
+Extensively clean the ‘Employee.csv’, ‘Department.csv’ and ‘Salary.csv’ datasets provided and  Merge all three datasets together.
+
+# STEPS
+First of all i downloaded the datasets into power BI through the Transform data on the home page, next step was to clean the datas, 
+i cleaned the salary dataset by removing all the nulls values using the reduce colums , and i clicked on keep top rows and selected the first 100 rows with this the colums with null values were gone. then for the other two data sets i checked out for empty cell and the data type were accurate.
+Now i was going to merge all three , i merged the employee data and department first using the combine files on the home tab, i clicked on merge on a new query ,so with this it created a new query which was tagged merge 1
+![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/19bb411d-3753-4ac7-9c85-0055ff562987)
+![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/80ae84e9-6448-4588-a908-571884beddfd)
+
+
+
+then my next action was to merge the salary data and the merge 1 which is the combination of bothe the employee data set and the department.
+
+![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/c5dfea37-91b3-47c6-980c-6a0e61226a1d)    ![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/7dab4a2b-2148-4be5-ba57-734f4596d1b0)
+
+
+then i reordered the colunms by moving the base and yearly increment colunms to the last columns so it can fit.
+
+
+
+
 
 
 
