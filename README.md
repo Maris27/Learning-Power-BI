@@ -4,7 +4,9 @@ We had a power BI session with Promise Chinonso and she actually taught us how i
 
 # QUESTIONS.
 
-![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/7e585063-76d1-4e50-be6b-abf208b0041c)
+Import the ‘Bank Term Deposit Subscription’ dataset into your Power BI Desktop using the csv file option
+Load the dataset into a database in SQL Server, connect your Power BI desktop to this database and import only the first 25 rows into your desktop for analysis
+
 
 
 We were giving a dataset which i downloaded as a csv file and cleaned on excel,checked out for blanks which there was none ,and also the colunms were separated with semi commas i had to change the delimiter to semi colon using the text to column on the data tab.below is the result of our Data set.
