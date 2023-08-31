@@ -25,6 +25,8 @@ Next step was to load the data set into the Power BI
 
 
 
+
+
 Next task was to load the data set into SQL server and then load it into power BI
 
 # SKILLS DEMONSTRATED
@@ -65,6 +67,12 @@ then my next action was to merge the salary data and the merge 1 which is the co
 
 
 then i reordered the colunms by moving the base and yearly increment colunms to the last columns so it can fit.
+
+
+
+
+![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/3a3ea3d3-0445-4a53-b01e-7d8098ae798b)
+
 
 
 
