@@ -5,11 +5,12 @@ We had a Power BI session with Promise Chinonso and she actually taught us how P
 # QUESTIONS.
 
 Import the ‘Bank Term Deposit Subscription’ dataset into your Power BI Desktop using the csv file option
-Load the dataset into a database in SQL Server, connect your Power BI desktop to this database and import only the first 25 rows into your desktop for analysis
+
+Load the dataset into a database in SQL Server, connect your Power BI desktop to this database and import only the first 25 rows into your desktop for analysis.
 
 
 
-We were giving a dataset which i downloaded as a csv file and I cleaned it on excel,checked out for blanks which there was none ,and i also noticed the colunms were separated with semi commas i had to change the delimiter to semi colon using the text to column on the data tab.below is the result of our data set after the changes.
+A dataset was provided known as the Bank Term Deposit dataset which i downloaded as a csv file and I cleaned it on excel,checked out for blanks which there was none ,and i also noticed the colunms were separated with semi commas i had to change the delimiter to semi colon using the text to column on the data tab on the excel sheet.below is the result of our data set after the changes.
 
 ![data set](https://github.com/Maris27/Learning-Power-BI/assets/140453106/5f943c89-b61b-4705-ba42-ff1ee2bdaca8)
 
@@ -31,7 +32,7 @@ Next task was to load the data set into SQL server and then load it into power B
 
 # SKILLS DEMONSTRATED
 
-1.Created a database on sql server known as BANK_FULLSET
+1.Created a database on SQL Server known as BANK_FULLSET
 
 2.Imported the csv table by selecting importing flat file into the BANK_FULLSET database
 
@@ -56,7 +57,7 @@ Extensively clean the ‘Employee.csv’, ‘Department.csv’ and ‘Salary.csv
 First of all i downloaded the datasets into Power BI through the transform data on the home page, next step was to clean the datas, 
 i cleaned the salary dataset by removing all the nulls values using the reduce colums, and i clicked on keep top rows and selected the first 100 rows, with this the colums with null values were gone. then for the other two data sets i checked out for empty cell ,there were no empty cells and the data type were accurate.
 Now i was to merge all three together as instructed. 
-i merged the employee data and department data first using the combine files on the home tab, i clicked on merge on a new query ,so with this it created a new query which was named merge 1 as shown below
+i merged the employee data and department data first using the combine files on the home tab, i clicked on merge on a new query ,so with this it created a new query which was named merge 1 as shown below.
 
 
 
