@@ -9,7 +9,7 @@ Load the dataset into a database in SQL Server, connect your Power BI desktop to
 
 
 
-We were giving a dataset which i downloaded as a csv file and I cleaned it on excel,checked out for blanks which there was none ,and i also noticed the colunms were separated with semi commas i had to change the delimiter to semi colon using the text to column on the data tab.below is the result of our Data set after the changes.
+We were giving a dataset which i downloaded as a csv file and I cleaned it on excel,checked out for blanks which there was none ,and i also noticed the colunms were separated with semi commas i had to change the delimiter to semi colon using the text to column on the data tab.below is the result of our data set after the changes.
 
 ![data set](https://github.com/Maris27/Learning-Power-BI/assets/140453106/5f943c89-b61b-4705-ba42-ff1ee2bdaca8)
 
