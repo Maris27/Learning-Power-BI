@@ -54,8 +54,8 @@ QUESTION
 Extensively clean the ‘Employee.csv’, ‘Department.csv’ and ‘Salary.csv’ datasets provided and  Merge all three datasets together.
 
 # STEPS
-First of all i downloaded the datasets into Power BI through the transform data on the home page, next step was to clean the datas, 
-i cleaned the salary dataset by removing all the nulls values using the reduce colums, and i clicked on keep top rows and selected the first 100 rows, with this the colums with null values were gone. then for the other two data sets i checked out for empty cell ,there were no empty cells and the data type were accurate.
+First of all i downloaded the datasets into Power BI through the transform data on the home page, next step was to clean the data, 
+i cleaned the salary dataset by removing all the null values using the reduce colums, and i clicked on keep top rows and selected the first 100 rows, with this the colums with null values were gone. then for the other two data sets i checked out for empty cell ,there were no empty cells and the data type were accurate.
 Now i was to merge all three together as instructed. 
 i merged the employee data and department data first using the combine files on the home tab, i clicked on merge on a new query ,so with this it created a new query which was named merge 1 as shown below.
 
