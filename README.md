@@ -73,6 +73,8 @@ then my next action was to merge the salary data and the merge 1 which is the co
 
 then i reordered the colunms by moving the base and yearly increment colunms from the salary data set to the last columns so it can fit.
 
+All three data were merged and i named it MERGED as shown below.
+
 
 ![image](https://github.com/Maris27/Learning-Power-BI/assets/140453106/3a3ea3d3-0445-4a53-b01e-7d8098ae798b)
 
